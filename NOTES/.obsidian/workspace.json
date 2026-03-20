@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7b321885f9f8ce0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82024e5b87655212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42fb0f11b89e2313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RaberryPi Pico W R 2040 Security Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RaberryPi Pico W R 2040 Security Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9c07a5a1f69d1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c98ca9327ad5258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c519e62cc814d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35d8b80398e59ef6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2e0fc561d602c037",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7c14ab095bb1dbd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "17878505137c00d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68484a47c7683eb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RaberryPi Pico W R 2040 Security Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RaberryPi Pico W R 2040 Security Project"
+            }
+          },
+          {
+            "id": "988778f0af9ea55a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RaberryPi Pico W R 2040 Security Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RaberryPi Pico W R 2040 Security Project"
+            }
+          },
+          {
+            "id": "3f59589849fff8f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e24019d1d68724c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4f740be1cf1792d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RaberryPi Pico W R 2040 Security Project.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RaberryPi Pico W R 2040 Security Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "42fb0f11b89e2313",
+  "lastOpenFiles": [
+    "Pics/Screenshot from 2026-03-19 23-21-24.png",
+    "Pics/Screenshot from 2026-03-19 23-08-11.png",
+    "Pics/Screenshot from 2026-03-19 23-08-05.png",
+    "Pics/Screenshot from 2026-03-19 23-07-59.png",
+    "Pics/Screenshot from 2026-03-19 23-07-49.png",
+    "Pics",
+    "RaberryPi Pico W R 2040 Security Project.md"
+  ]
+}
