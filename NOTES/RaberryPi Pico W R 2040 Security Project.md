@@ -11,7 +11,7 @@
 | Pico                                                                                                                                                         | Pico W                                                                                                                                | Pico H                                                                                                                                                              | Pico WH                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | This is the regular "base mode" pico . All Pico variants run the same processor , RAM and memory as this version . other versions add things to this variant | This model comes with wirless capabilities allowing you to connect it to the internet through wifi , and allows you to use Bluetooth. | This also is the same as the regular Pico , however it comes with pins headers already attached to the board. good option if you don't want to put your own headers | this is identical to Pico W , including wireless capabilities , it just have the headers also like the H variant |
-| ![[Screenshot from 2026-03-19 23-07-49.png\|1000]]                                                                                                           | ![[Screenshot from 2026-03-19 23-08-05.png\|1000]]                                                                                    | ![[Screenshot from 2026-03-19 23-07-59.png]]                                                                                                                        | ![[Screenshot from 2026-03-19 23-08-11.png]]                                                                     |
+| <img src="Pics/Screenshot from 2026-03-19 23-07-49.png" alt="Pico" width="500"/>                                                                                                          | <img src="Pics/Screenshot from 2026-03-19 23-08-05.png" alt="Pico W" width="500"/>                                                                                    | <img src="Pics/Screenshot from 2026-03-19 23-07-59.png" alt="Pico H" width="500"/>                                                                                                                        | <img src="Pics/Screenshot from 2026-03-19 23-08-11.png" alt="Pico WH" width="500"/>                                                                    |
 > For more Info and detailed features : [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)
 
 
@@ -19,7 +19,7 @@
 
 the General Purpose Input/Output pins on Pico are numbered in two ways 
 
-![[Screenshot from 2026-03-19 23-21-24.png]]
+<img src="Pics/Screenshot from 2026-03-19 23-21-24.png" alt="GPIO Layout" width="500"/>
 
 
 - GPIO pins can be numbered numerically or by function like GP1 , GP2  , ...etc. 
